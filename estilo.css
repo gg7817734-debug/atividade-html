@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(224, 196, 201);
+    font-family: Arial;
+}
+h1{
+    color: purple;
+    text-align: center;
+}
+h2{
+    color: deeppink;
+}
+h3{
+    color:purple;
+}
+p{
+    color:black;
+}
+a{
+    color:purple;
+    font-size: 18px;
+}
+input{
+    background-color: white;
+}
+textarea{
+    background-color: white;
+}
